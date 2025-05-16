@@ -5,6 +5,6 @@ Bioinformatics Student
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently looking jobs in NGS data Analyst
+- 🔭 I’m currently looking for a job in NGS data Analyst
 - 💻 Experience in Transcriptomic Analysis in RCC
 
