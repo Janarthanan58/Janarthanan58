@@ -1,8 +1,8 @@
 ## Hi there 👋 It's me Janarthanan
 
-Bioinformatics Student
+Bioinformatician 
 
 Learning with problems
-- 🔭 I’m currently looking for a job in NGS data Analyst
+- 💻Experience  in Bacterial genome analysis
 - 💻 Experience in Transcriptomic Analysis in RCC
 
